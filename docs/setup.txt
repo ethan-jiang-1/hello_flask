@@ -1,0 +1,8 @@
+$ mkdir hello
+
+$ cd hello
+
+$ virtualenv flask
+
+$ flask/bin/pip install flask
+
