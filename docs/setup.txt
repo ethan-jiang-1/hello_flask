@@ -1,8 +1,11 @@
 http://www.cnblogs.com/vovlie/p/4178077.html
 
-$ mkdir hello
+1. make sure you have python 2.7.x installed
+2. make sure you have python dev installed - suto apt-get install python-dev
 
-$ cd hello
+$ git clone the hello_flask repository to working folder
+
+$ cd hello_flask
 
 $ virtualenv flask
 
