@@ -9,7 +9,10 @@ $ cd hello_flask
 
 $ virtualenv flask
 
-$ flask/bin/pip install flask
+$ source flask/bin/activate  - using the virtual env 
+
+(flask): pip install flask
    
-  flask/bin/pip install Flask-Script
+(flask): pip install Flask-Script
+
 
